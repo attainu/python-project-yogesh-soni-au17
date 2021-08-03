@@ -11,6 +11,21 @@ A maze in the form of matrix will be given in the form of 1’s and 0’s, where
 
 ​And the goal is to find the path between the source to the destination in the maze (if the path exists) otherwise just return/"-1" indicating no path exists between the source and destination.​​
 
+#### How to run MazeSolver exe file In Windows Operating System :
+
+First of All Download the MazeBt.exe File and install it, . When you Install It the all file automatically extracted and Automatic generated a Folder Named as MazeBt. . next Open The MazeBt Folder ,The Folder consists of -:
+
+1.input.txt (input example Matrix form)
+2.MazeBt.exe
+3.MaeBt.py
+4.RUN.bat (for window user only)
+5.RUNLINUX.sh (for linux user)
+.Next Give the input maze in the n*n matrix form with binary digit input (1,0) and notice: gap between each cell will be compulsory a example matrix alredy given there as input.txt .next and final step double click the RUN.bat file it takes 2seconds to run and path.txt file generated automatically which consists of solved maze matrix with executed time and date and with movement direction from source to destination.
+
+#### How to run MazeSolver exe file In Linux Operating System :
+
+Open the MazeBt folder from GitHub Repo .Next Give the input maze in the n*n matrix form with binary digit input (1,0) and notice: gap between each cell will be compulsory like 0,1,0,0,1 a example matrix alredy given there as input.txt .next and final step double click the RUNLINUX.sh file it takes 2seconds to run and path.txt file generated automatically which consists of solved maze matrix with executed time and date and with movement direction from source to destination.
+
 #### ​Approach:-
 
 Given a maze, NxN matrix.we have to find a path from source to destination.​
