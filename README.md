@@ -16,10 +16,15 @@ A maze in the form of matrix will be given in the form of 1’s and 0’s, where
 First of All Download the MazeBt.exe File and install it, . When you Install It the all file automatically extracted and Automatic generated a Folder Named as MazeBt. . next Open The MazeBt Folder ,The Folder consists of -:
 
 1.input.txt (input example Matrix form)
-2.MazeBt.exe
-3.MaeBt.py
+
+2.m.exe
+
+3.m.py
+
 4.RUN.bat (for window user only)
+
 5.RUNLINUX.sh (for linux user)
+
 .Next Give the input maze in the n*n matrix form with binary digit input (1,0) and notice: gap between each cell will be compulsory a example matrix alredy given there as input.txt .next and final step double click the RUN.bat file it takes 2seconds to run and path.txt file generated automatically which consists of solved maze matrix with executed time and date and with movement direction from source to destination.
 
 #### How to run MazeSolver exe file In Linux Operating System :
