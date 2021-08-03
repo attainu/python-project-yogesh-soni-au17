@@ -55,10 +55,10 @@ Taking Input:-
 
 #### ​ Output:-
 • Open a file, say outputfile.txt, in write mode​Instructions to execute the file:-
-• open : https://github.com/anubhav-srivastava-au5/maze-solver
+• open : https://github.com/yogesh-soni-au17/maze-solver
 • From github repo copy the code of the file to any python editor and save the file in certain folder.
 • Open the cmd and go to the folder where you save the python code .
-• Execute the code file by writting -: maze.py or maze.py -i inputfile.txt -o outputfile.txt
+• Execute the code file by writting -: m.py or m.py -i inputfile.txt -o outputfile.txt
 ​• pass the arguments in the following order
 ​• give size of the matrix = n​
 • n (any integer which represents the order of the matrix)
