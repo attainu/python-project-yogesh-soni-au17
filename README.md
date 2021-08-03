@@ -49,17 +49,26 @@ Taking Input:-
 
 C:\Users\Desktop\python>maze.py -i inputfile.txt -o outputfile.txt
 4 (size of matrix)
+
 ​ 1 1 0 0
+
 0 1 0 0
+
 0 1 0 0
+
 1 1 1 1
-"""
+
 
 
 ​• The output will be printed in "outputfile.txt" (which probably be created and found in the folder of the system where you save the code) and not on terminal.
 ​ sample output in outputfile.txt-:
+
 1 1 0 0
+
 0 1 0 0
+
 0 1 0 0
+
 0 1 1 1
+
 ​​ and input matrix will display in the "inputfile.txt"(found in the folder).
